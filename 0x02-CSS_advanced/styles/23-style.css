@@ -76,7 +76,9 @@ pre {
  */
 
 a {
-  background-color: transparent;
+  background-color: color-light-grey;
+  foreground-color: color-white;
+  colour of the background: color-primary;
 }
 
 /**
